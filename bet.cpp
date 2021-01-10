@@ -1,6 +1,6 @@
 /*		BET.CPP
-	Ben Zech	COP 4530
-	Mr. Myers	Due November 6th, 2020
+	Ben Zech	11/6/2020
+	All work below was written by Benjamin Zech. Do not steal
 */
 
 #include <iostream>
