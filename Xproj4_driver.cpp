@@ -2,6 +2,8 @@
 #include <string>
 #include "bet.h"
 
+// All work below was written by Benjamin Zech. Do not steal
+
 using namespace std;
 
 int main() {
